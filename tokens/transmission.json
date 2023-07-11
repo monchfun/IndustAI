@@ -1,37 +1,5 @@
 {
   "seed": {
-    "key": {
-      "primary": {
-        "value": "#1270f5",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "#8a90a5",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "#b58391",
-        "type": "color"
-      },
-      "neutral": {
-        "value": "#5e5e5e",
-        "type": "color"
-      }
-    },
-    "state": {
-      "success": {
-        "value": "#5ac220",
-        "type": "color"
-      },
-      "warning": {
-        "value": "#e69c00",
-        "type": "color"
-      },
-      "error": {
-        "value": "#d93f23",
-        "type": "color"
-      }
-    },
     "fontSize": {
       "value": "14",
       "type": "fontSizes"
