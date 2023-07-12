@@ -666,7 +666,7 @@
       "value": "{borderRadius}*{borderRadius}",
       "type": "borderRadius"
     },
-    "color": {
+    "role": {
       "shadow": {
         "type": "color",
         "value": "{neutral.0}"
@@ -741,7 +741,7 @@
       },
       "primary": {
         "type": "color",
-        "value": "{primary.40}"
+        "value": "{primary.60}"
       },
       "on-primary": {
         "type": "color",
@@ -757,7 +757,7 @@
       },
       "secondary": {
         "type": "color",
-        "value": "{secondary.40}"
+        "value": "{secondary.70}"
       },
       "on-secondary": {
         "type": "color",
@@ -773,7 +773,7 @@
       },
       "tertiary": {
         "type": "color",
-        "value": "{tertiary.40}"
+        "value": "{tertiary.20}"
       },
       "on-tertiary": {
         "type": "color",
@@ -781,7 +781,7 @@
       },
       "tertiary-container": {
         "type": "color",
-        "value": "{tertiary.90}"
+        "value": "{tertiary.30}"
       },
       "on-tertiary-container": {
         "type": "color",
@@ -789,7 +789,7 @@
       },
       "error": {
         "type": "color",
-        "value": "{error.40}"
+        "value": "{error.50}"
       },
       "on-error": {
         "type": "color",
@@ -805,7 +805,7 @@
       },
       "warning": {
         "type": "color",
-        "value": "{warning.40}"
+        "value": "{warning.60}"
       },
       "on-warning": {
         "type": "color",
@@ -821,7 +821,7 @@
       },
       "success": {
         "type": "color",
-        "value": "{success.40}"
+        "value": "{success.60}"
       },
       "on-success": {
         "type": "color",
