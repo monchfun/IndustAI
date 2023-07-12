@@ -28,56 +28,6 @@
       "value": "1",
       "type": "borderWidth"
     },
-    "primary": {
-      "0": {
-        "type": "color",
-        "value": "rgb(0, 0, 0)"
-      },
-      "10": {
-        "type": "color",
-        "value": "rgb(0, 28, 59)"
-      },
-      "20": {
-        "type": "color",
-        "value": "rgb(0, 49, 95)"
-      },
-      "30": {
-        "type": "color",
-        "value": "rgb(0, 71, 135)"
-      },
-      "40": {
-        "type": "color",
-        "value": "rgb(0, 95, 176)"
-      },
-      "50": {
-        "type": "color",
-        "value": "rgb(13, 119, 218)"
-      },
-      "60": {
-        "type": "color",
-        "value": "rgb(62, 146, 246)"
-      },
-      "70": {
-        "type": "color",
-        "value": "rgb(115, 173, 255)"
-      },
-      "80": {
-        "type": "color",
-        "value": "rgb(166, 200, 255)"
-      },
-      "90": {
-        "type": "color",
-        "value": "rgb(213, 227, 255)"
-      },
-      "95": {
-        "type": "color",
-        "value": "rgb(235, 241, 255)"
-      },
-      "100": {
-        "type": "color",
-        "value": "rgb(255, 255, 255)"
-      }
-    },
     "secondary": {
       "0": {
         "type": "color",
@@ -435,6 +385,12 @@
     "black": {
       "type": "color",
       "value": "rgb(0, 0, 0)"
+    },
+    "primary": {
+      "60": {
+        "value": "#3b54bf",
+        "type": "color"
+      }
     }
   },
   "base": {
@@ -665,56 +621,13 @@
     "rounded": {
       "value": "{borderRadius}*{borderRadius}",
       "type": "borderRadius"
-    }
-  },
-  "alias": {
+    },
     "primary": {
-      "backgorud": {
-        "value": "{primary.50}",
-        "type": "color"
-      },
-      "backgorud-hover": {
-        "value": "{primary.50}",
-        "type": "color"
-      },
-      "foreground": {
-        "value": "{neutral.100}",
-        "type": "color"
-      }
-    },
-    "icon": {
-      "primary": {
-        "value": "{neutral.50}",
-        "type": "color"
-      },
-      "primaryOn": {
-        "value": "{neutral.100}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "{neutral.60}",
-        "type": "color"
-      }
-    },
-    "button": {
-      "primaryBackground": {
-        "value": "{primary.50}",
-        "type": "color"
-      },
-      "primaryForeground": {
-        "value": "{neutral.100}",
-        "type": "color"
-      },
-      "secondaryForeground": {
-        "value": "{primary.50}",
-        "type": "color"
-      },
-      "secodaryBackground": {
-        "value": "{primary.90}",
-        "type": "color"
-      }
+      "value": "{primary.60}",
+      "type": "color"
     }
   },
+  "alias": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
