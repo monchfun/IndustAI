@@ -749,11 +749,11 @@
       },
       "primary-container": {
         "type": "color",
-        "value": "{primary.90}"
+        "value": "{primary.20}"
       },
       "on-primary-container": {
         "type": "color",
-        "value": "{primary.10}"
+        "value": "{primary.80}"
       },
       "secondary": {
         "type": "color",
@@ -781,11 +781,11 @@
       },
       "tertiary-container": {
         "type": "color",
-        "value": "{tertiary.30}"
+        "value": "{tertiary.10}"
       },
       "on-tertiary-container": {
         "type": "color",
-        "value": "{tertiary.10}"
+        "value": "{tertiary.30}"
       },
       "error": {
         "type": "color",
