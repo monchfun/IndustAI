@@ -135,43 +135,43 @@
       },
       "10": {
         "type": "color",
-        "value": "rgb(0, 30, 47)"
+        "value": "rgb(0, 28, 58)"
       },
       "20": {
         "type": "color",
-        "value": "rgb(0, 52, 77)"
+        "value": "rgb(19, 49, 85)"
       },
       "30": {
         "type": "color",
-        "value": "rgb(27, 75, 103)"
+        "value": "rgb(45, 72, 109)"
       },
       "40": {
         "type": "color",
-        "value": "rgb(54, 99, 128)"
+        "value": "rgb(69, 95, 134)"
       },
       "50": {
         "type": "color",
-        "value": "rgb(80, 124, 154)"
+        "value": "rgb(94, 120, 160)"
       },
       "60": {
         "type": "color",
-        "value": "rgb(106, 150, 181)"
+        "value": "rgb(120, 146, 187)"
       },
       "70": {
         "type": "color",
-        "value": "rgb(133, 176, 209)"
+        "value": "rgb(146, 173, 215)"
       },
       "80": {
         "type": "color",
-        "value": "rgb(160, 204, 237)"
+        "value": "rgb(173, 200, 244)"
       },
       "90": {
         "type": "color",
-        "value": "rgb(200, 230, 255)"
+        "value": "rgb(212, 227, 255)"
       },
       "95": {
         "type": "color",
-        "value": "rgb(229, 242, 255)"
+        "value": "rgb(235, 241, 255)"
       },
       "100": {
         "type": "color",
