@@ -55,7 +55,7 @@
       "type": "fontSizes"
     },
     "size": {
-      "value": "8",
+      "value": "9",
       "type": "sizing"
     },
     "space": {
@@ -577,6 +577,10 @@
         "value": "{space}*2",
         "type": "spacing"
       },
+      "variant": {
+        "value": "{space} +4",
+        "type": "spacing"
+      },
       "lg": {
         "value": "{space}*3",
         "type": "spacing"
@@ -673,7 +677,7 @@
       },
       "scrim": {
         "type": "color",
-        "value": "{neutral.0}"
+        "value": "{tertiary.10}"
       },
       "outline": {
         "type": "color",
@@ -781,11 +785,11 @@
       },
       "tertiary-container": {
         "type": "color",
-        "value": "{tertiary.10}"
+        "value": "{tertiary.30}"
       },
       "on-tertiary-container": {
         "type": "color",
-        "value": "{tertiary.30}"
+        "value": "{tertiary.90}"
       },
       "error": {
         "type": "color",
@@ -837,7 +841,22 @@
       }
     }
   },
-  "alias": {},
+  "alias": {
+    "table": {
+      "table-tr-checked": {
+        "value": "{role.primary}",
+        "type": "color"
+      },
+      "table-tr-hover": {
+        "value": "{tertiary.40}",
+        "type": "color"
+      },
+      "table-divider": {
+        "value": "{tertiary.40}",
+        "type": "color"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
