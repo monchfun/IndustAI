@@ -741,7 +741,7 @@
       },
       "inverse-primary": {
         "type": "color",
-        "value": "{primary.80}"
+        "value": "{primary.70}"
       },
       "primary": {
         "type": "color",
@@ -789,7 +789,7 @@
       },
       "on-tertiary-container": {
         "type": "color",
-        "value": "{tertiary.90}"
+        "value": "{tertiary.80}"
       },
       "error": {
         "type": "color",
