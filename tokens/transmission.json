@@ -700,7 +700,7 @@
         },
         "scrim": {
           "type": "color",
-          "value": "{color.tertiary.10}"
+          "value": "{color.secondary.10}"
         },
         "outline": {
           "type": "color",
@@ -792,15 +792,15 @@
         },
         "secondary-container": {
           "type": "color",
-          "value": "{color.secondary.90}"
+          "value": "{color.secondary.30}"
         },
         "on-secondary-container": {
           "type": "color",
-          "value": "{color.secondary.10}"
+          "value": "{color.secondary.80}"
         },
         "tertiary": {
           "type": "color",
-          "value": "{color.tertiary.20}"
+          "value": "{color.tertiary.80}"
         },
         "on-tertiary": {
           "type": "color",
