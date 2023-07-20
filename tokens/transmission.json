@@ -309,7 +309,7 @@
           "value": "rgb(255, 255, 255)"
         }
       },
-      "secondary": {
+      "tertiary": {
         "0": {
           "type": "color",
           "value": "rgb(0, 0, 0)"
@@ -359,7 +359,7 @@
           "value": "rgb(255, 255, 255)"
         }
       },
-      "tertiary": {
+      "secondary": {
         "0": {
           "type": "color",
           "value": "rgb(0, 0, 0)"
