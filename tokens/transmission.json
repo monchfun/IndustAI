@@ -671,18 +671,26 @@
   },
   "dark": {
     "color": {
-      "table": {
-        "table-tr-checked": {
-          "value": "{color.sys.primary}",
-          "type": "color"
+      "com": {
+        "table": {
+          "table-tr-checked": {
+            "value": "{color.sys.primary}",
+            "type": "color"
+          },
+          "table-tr-hover": {
+            "value": "{color.tertiary.40}",
+            "type": "color"
+          },
+          "table-divider": {
+            "value": "{color.tertiary.40}",
+            "type": "color"
+          }
         },
-        "table-tr-hover": {
-          "value": "{color.tertiary.40}",
-          "type": "color"
-        },
-        "table-divider": {
-          "value": "{color.tertiary.40}",
-          "type": "color"
+        "button": {
+          "primaryHover": {
+            "value": "{color.primary.50}",
+            "type": "color"
+          }
         }
       },
       "sys": {
