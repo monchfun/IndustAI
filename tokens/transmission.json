@@ -671,7 +671,7 @@
   },
   "dark": {
     "color": {
-      "com": {
+      "comp": {
         "table": {
           "table-tr-checked": {
             "value": "{color.sys.primary}",
